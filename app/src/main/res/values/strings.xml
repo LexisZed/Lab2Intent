@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab2Intent</string>
+    <string name="height_message">Enter your height with decimal</string>
+    <string name="weight_message">Enter your weight with decimal</string>
+    <string name="send">Send</string>
+    <string name="message">Message</string>
+    <string name="close">Close</string>
+    <string name="error_message">Please enter a message</string>
+</resources>
